@@ -1,5 +1,9 @@
-import styles from "./Button.module.scss";
-
-const App = () => <button className={styles.button}>нажми</button>;
+function App() {
+  return (
+    <div>
+      <h1>Project</h1>
+    </div>
+  );
+}
 
 export default App;
